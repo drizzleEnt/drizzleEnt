@@ -40,8 +40,6 @@
 | **chat-server** | Чат-сервер на gRPC | Go, gRPC, WebSocket | [GitHub](https://github.com/drizzleEnt/chat-server) |
 | **banners** | Сервис баннеров/рекламы | Go, Postgres, Redis | [GitHub](https://github.com/drizzleEnt/banners) |
 
-(Добавь больше проектов, если есть — например, с Kafka или Prometheus)
-
 ## 📊 Активность
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drizzleEnt&theme=onedark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
