@@ -35,7 +35,7 @@
 ## 🔥 Избранные проекты (pinned)
 | Проект | Описание | Технологии | Ссылка |
 |--------|----------|------------|--------|
-| **chat-ui/chat-server** | Десктопный приложение чата и сервер к нему | Go, Blockchain | [GitHub](https://github.com/drizzleEnt/i-chat) [GitHub](https://github.com/drizzleEnt/i-chat-server)|
+| **chat-ui/chat-server** | Десктопный приложение чата и сервер к нему | Go, Websocket | [GitHub](https://github.com/drizzleEnt/i-chat) [GitHub](https://github.com/drizzleEnt/i-chat-server)|
 | **auth** | Сервис авторизации на gRPC (форк с доработками) | Go, gRPC, Microservices | [GitHub](https://github.com/drizzleEnt/auth) |
 | **chat-server** | Чат-сервер на gRPC | Go, gRPC, WebSocket | [GitHub](https://github.com/drizzleEnt/chat-server) |
 | **banners** | Сервис баннеров/рекламы | Go, Postgres, Redis | [GitHub](https://github.com/drizzleEnt/banners) |
