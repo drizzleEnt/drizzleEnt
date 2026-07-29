@@ -12,7 +12,7 @@
 </div>
 
 ## 🚀 Обо мне
-- 🔙 **Опыт ~3 года** в backend на Go: gRPC, HTTP API, WebSocket, микросервисы.
+- 🔙 **Опыт c 2022 года** в backend на Go: gRPC, HTTP API, WebSocket, микросервисы.
 - 🪙 **Блокчейн**: Разработка крипто-кошельков и интеграций (Ethereum/Solana-подобные).
 - 📊 **Инфраструктура**: Postgres, Kafka, NATS, RabbitMQ, Redis, Prometheus + Grafana, CI/CD, Linux.
 - 🎮 **Ранее**: Геймдев на Unity (C#).
